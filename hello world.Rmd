@@ -1,0 +1,14 @@
+---
+title: "Hellow Word"
+author: "Swajoh"
+date: "05/07/2020"
+output: pdf_document
+---
+
+
+```
+
+## R Markdown
+
+This is an R Markdown document. 
+
